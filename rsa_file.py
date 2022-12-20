@@ -2,7 +2,8 @@ p = getPrime(1024)
 q = getPrime(1024)
 
 #public key pair (o, e) generated
-n = p * q as formular is given here... we have n +ve will try fxn/p (maths logic)
+n = p * q as formular is given here... we have n + ve will try fxn/p (maths
+logic)
 c = 65537
 
 #
